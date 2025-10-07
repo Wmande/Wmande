@@ -1,12 +1,15 @@
-## Hi there 👋, am Nelson Mandela
+## Hi there 👋, I'm Nelson Mandela Wasike
 
+🚀 I'm a Software Developer specializing in **Full-Stack Web Development** — passionate about building modern, scalable, and cloud-enabled web applications.  
 
+- 💻 Skilled in **JavaScript (React.js, Next.js)** and **PHP Laravel** for web application development  
+- ⚙️ Experienced in **Node.js (Express)** for API development  
+- ☁️ Proficient in cloud platforms including **Firebase**, **Google Cloud**, **AWS**, and **MongoDB**  
+- 🐳 Knowledgeable in **Dockerization** and deployment best practices  
+- 🧩 Enjoy working in collaborative, innovative teams and constantly exploring new technologies  
 
-- 🔭I am a software Developer mainly dealing in Web Development<br/>
-- 🌱 
-- 👯 Good in Javascript(reactjs, nextjs), typescript<br/>
-- 🤔 Php laravel<br/>
-- 💬 Dockerization<br/>
+🔗 Check out my portfolio: [mandevs.com](https://mandevs.com)
+
 
 
 
