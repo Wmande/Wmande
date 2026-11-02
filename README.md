@@ -1,15 +1,20 @@
 ## Hi there 👋, I'm Nelson Mandela Wasike
 
-🚀 I'm a Software Developer specializing in **Full-Stack Web Development** — passionate about building modern, scalable, and cloud-enabled web applications.  
+🚀 I'm a **Full-Stack Software Developer** passionate about building modern, scalable, and cloud-enabled applications that solve real-world problems.
 
-- 💻 Skilled in **JavaScript (React.js, Next.js)** and **PHP Laravel** for web application development
-- Experienced in integrating Blazor Server with Entity Framework Core, REST APIs, and SQL Server for full-stack .NET development. 
-- ⚙️ Experienced in **Node.js (Express)** for API development  
-- ☁️ Proficient in cloud platforms including **Firebase**, **Google Cloud**, **AWS**, and **MongoDB**  
-- 🐳 Knowledgeable in **Dockerization** and deployment best practices  
-- 🧩 Enjoy working in collaborative, innovative teams and constantly exploring new technologies  
+- 💻 **Frontend Development:** JavaScript, React.js, Next.js, and modern UI development.
+- ⚙️ **Backend Development:** PHP Laravel, Node.js (Express), RESTful API development, and Blazor Server.
+- 🗄️ **Database & ORM:** MySQL, PostgreSQL, MongoDB, Firebase, SQL Server, and Entity Framework Core.
+- 🔗 **API & System Integration:** REST APIs, third-party service integrations, and backend connectivity.
+- ☁️ **Cloud & Deployment:** Google Cloud, AWS, Firebase, and cloud application hosting.
+- 🐳 **DevOps & Infrastructure:** Docker, application containerization, deployment, and server configuration.
+- 🎨 **Design & User Experience:** Responsive web design, modern UI/UX, and user-focused interfaces.
 
-🔗 Check out my portfolio: [mandevs.com](https://mandevs.com)
+🌱 Always learning, experimenting with emerging technologies, and exploring better ways to build reliable, maintainable, and efficient software.
+
+🤝 Open to collaborating on innovative projects, contributing to open-source development, and connecting with fellow developers.
+
+🔗 Check out my portfolio: [mandevelops.com](https://mandevelops.com)
 
 
 
